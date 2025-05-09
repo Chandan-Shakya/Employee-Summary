@@ -26,9 +26,6 @@ Balanced gender representation and device usage analytics
 Salary and role insights aiding HR and management decision-making
 
 ## 📁 Repository Contents
-bash
-Copy
-Edit
 ![Screenshot (19)](https://github.com/user-attachments/assets/6adebd39-a91f-438b-be24-89c4cee53824) # Exported Tableau dashboard image
 
 ## 🚀 How to Use
